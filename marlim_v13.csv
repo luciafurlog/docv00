@@ -1,6 +1,4 @@
-Task;Poço Recolhido;Duração Recolhimento;Escopo;Anuência;Plataforma;"Data lançamento linha
-Informado ao Ibama";Restrição Precedente;Poço Demandante;Data Limite para recolhimento;Recurso;Início PLSV;Término PLSV;"Conflito
-Precedência";Conflito Sucessão;Folga;Peso;Folga
+Task;Poço Recolhido;Duração Recolhimento;Escopo;Anuência;Plataforma;"Data lançamento linha Informado ao Ibama";Restrição Precedente;Poço Demandante;Data Limite para recolhimento;Recurso;Início PLSV;Término PLSV;"Conflito Precedência";Conflito Sucessão;Folga;Peso;Folga
 1;7-MRL-150HP-RJS;37,4;Recolhimento;Emitida em 13/12/2021;P-37;23/10/2022;26/04/2022;7-MRL-156HP-RJS;30/10/2022;PLSV1;28/04/2022;04/06/2022;;;148;113,02474;149,60
 2;8-MLS-81HP-RJS;12,3;Recolhimento;Emitida em 13/12/2021;P-37;13/11/2022;10/05/2022;7-MRL-156HP-RJS;30/10/2022;PLSV1;05/06/2022;17/06/2022;;;134;170,97275;160,70
 3;7-MRL-138HP-RJS;11,4;Recolhimento;2ª Carta até 10/abr;P-37;13/11/2022;10/05/2022;7-MRL-156HP-RJS;30/10/2022;PLSV1;18/06/2022;30/06/2022;;;122;116,6778;161,60
